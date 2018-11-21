@@ -1,0 +1,15 @@
+com\rpg\game\builder\impl\CounterStrikeGameBuilderTest.class
+com\rpg\game\builder\impl\TombRaiderGameBuilderTest.class
+com\rpg\util\PropertyLoaderTest.class
+com\rpg\game\AbstractGameTest.class
+com\rpg\game\GameTest.class
+com\rpg\ui\map\AbstractMapTest.class
+com\rpg\ui\SplashScreenTest.class
+com\rpg\ui\map\impl\CounterStrikeMapTest.class
+com\rpg\game\builder\GameDirectorTest.class
+com\rpg\game\state\manager\GameStateManagerTest.class
+com\rpg\ui\map\GameMapTest.class
+com\rpg\ui\map\impl\TombRaiderMapTest.class
+com\rpg\util\ReadUserInputTest.class
+com\rpg\game\builder\AbstractGameBuilderTest.class
+com\rpg\ui\menu\MenuTest.class
